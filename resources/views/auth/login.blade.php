@@ -9,7 +9,7 @@ Inicio de Sesión
 
     <div class="login-box">
         <div class="login-logo">
-            <a href="{{ url('/home') }}"><b>CREDI</b>EFECTIVO</a>
+            <a href="{{ url('/home') }}"><b>CREDI</b>CLICK</a>
         </div><!-- /.login-logo -->
 
         @if (count($errors) > 0)
@@ -43,7 +43,7 @@ Inicio de Sesión
                         </div>
                     </div><!-- /.col -->
                     <div class="col-xs-4">
-                        <button type="submit" class="btn btn-danger btn-block">Entrar</button>
+                        <button type="submit" class="btn btn-default btn-block">Entrar</button>
                     </div><!-- /.col -->
                 </div>
             </form>

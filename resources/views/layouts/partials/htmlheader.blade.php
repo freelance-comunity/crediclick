@@ -1,6 +1,6 @@
 <head>
   <meta charset="UTF-8">
-  <title>CREDIEFECTIVO</title>
+  <title>CREDICLICK</title>
   <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'>
   <link rel="icon" href="{{ asset('/img/icon.png') }}" type="image/x-icon" />
 
@@ -20,6 +20,7 @@
         -->
         <link href="{{ asset('/css/skins/skin-blue.css') }}" rel="stylesheet" type="text/css" />
         <link href="{{ asset('/css/skins/skin-red.css') }}" rel="stylesheet" type="text/css" />
+        <link href="{{ asset('/css/skins/skin-black.css') }}" rel="stylesheet" type="text/css" />
         <!-- iCheck -->
         <link href="{{ asset('/plugins/iCheck/square/blue.css') }}" rel="stylesheet" type="text/css" />
 

@@ -1,7 +1,7 @@
 <!-- Content Header (Page header) -->
 <section class="content-header">
     <h1>
-        @yield('contentheader_title', 'CREDIEFECTIVO')
+        @yield('contentheader_title', 'CREDICLICK')
         <small>@yield('contentheader_description')</small>
         <!--<img src="{{ asset('img/logo.jpg') }}" style="width: 250px; height: 100px;" class="img-responsive" alt="">-->
     </h1>
